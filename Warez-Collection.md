@@ -12,9 +12,9 @@
 
 **AnimePiracy**
 
+* [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 * [Piracy.moe](https://piracy.moe/)
 * [Wiki-AnimePiracy](https://wiki.piracy.moe/)
-* [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 
 **Awesome Piracy**
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/)
@@ -47,7 +47,7 @@
 * [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
 
 **A Small Collection**
-* [my-little-collections.super.site/](https://my-little-collections.super.site/)
+* [My little collections](https://my-little-collections.super.site/)
 
 **The Pirate List**
 * [Thepiratelist](https://thepiratelist.com/)
@@ -55,5 +55,25 @@
 **LightNovel Site Dump**
 * [LN-Site-Dump](https://docs.google.com/spreadsheets/d/1KGPLcSikfMgjtL7u8e2eiMQwDIgoAefOZsVrEzN9MQw/htmlview)
 
+**Dirty Warez**
+* [Dirtywarez](https://dirtywarez.org/)
+
+**Nocensor**
+* [Nocensor](https://nocensor.biz/)
+
+**Bestoflinks**
+* [Bestoflinks](http://bestoflinks.synology.me/)
+
+**Unblockit**
+* [Unblockit](https://unblockit.bz/)
+
+**Pirates Neverland**
+* [Pirates Neverland](http://www.neverland.ws/index.html)
+
+**Piratesites.com**
+* [Piratesites](https://web.archive.org/web/20200317192929/https://piratesites.com/)
+
+**Sajayprakash/megathread**
+* [Megathread](https://github.com/sajayprakash/megathread)
 
 
